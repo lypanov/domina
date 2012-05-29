@@ -2,8 +2,7 @@
   :description "A DOM manipulation library for ClojureScript inspired by JQuery"
   :source-path "src/clj"
   :dependencies [[org.clojure/clojurescript "0.0-1011"]
-                 [org.clojure/clojure "1.3.0"]
-                 [goog-jar "1.0.0"]]
+                 [org.clojure/clojure "1.3.0"]]
   :plugins [[lein-cljsbuild "0.1.7"]]
   :dev-dependencies [[lein-clojars "0.6.0"]]
   :hooks [leiningen.cljsbuild]
