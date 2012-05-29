@@ -1,4 +1,4 @@
-(defproject domina "1.0.0-SNAPSHOT"
+(defproject domina-with-no-goog-jar-dep "1.0.0-SNAPSHOT"
   :description "A DOM manipulation library for ClojureScript inspired by JQuery"
   :source-path "src/clj"
   :dependencies [[org.clojure/clojurescript "0.0-1011"]
